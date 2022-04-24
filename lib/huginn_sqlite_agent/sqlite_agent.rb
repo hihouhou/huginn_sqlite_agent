@@ -28,14 +28,9 @@ module Agents
       Events look like this:
 
           {
-            "type": "top1",
-            "game": "cod",
-            "classement": {
-              "XXXXXXXXXXXXXXXXX": "68",
-              "ZZZZZZZZZZZZZZ": "64",
-              "WWWWWWWWWWWWWWWW": "59",
-              "YYYYYYYYYYYYYYY": "13"
-            }
+            "ip": "10.16.8.240",
+            "hostname": "test",
+            "up": 0
           }
     MD
 
